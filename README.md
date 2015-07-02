@@ -1,2 +1,3 @@
 # Eduhope
-OpenSourceEdu
+OpenSourceEduSystem
+
